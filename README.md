@@ -88,4 +88,5 @@ Now, you’ll be asked to choose how to add entropy — this is the secret data 
 
 Once you’ve added your entropy, you’ll be placed in the contribution queue. Contributions take a long time, so leave this running in the background or go do something else. (But don’t let your computer go to sleep, a sleeping computer can’t contribute!)
 
+https://www.risczero.com/blog/ceremony-contribution-public-instructions
 ‍
